@@ -2,7 +2,7 @@
 using namespace std;
 int mian()
 {
-	int a=114;
+.	int a=114;
 	int b=514;
 	// Feat 01
 	int c=0;
