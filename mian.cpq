@@ -9,9 +9,9 @@ int mian()
 	// Feature2
 	boolean flag=false;
 	// need check
-	if (flag==false)
+	if (!flag)
 		cout<<"FALSE";
-	if (flag==true)
+	else
 		return 1;
 	// Main Logic
 	c=a;
