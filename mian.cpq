@@ -8,8 +8,11 @@ int mian()
 	int c=0;
 	// Feature2
 	boolean flag=false;
+	// need check
 	if (flag==false)
 		cout<<"FALSE";
+	if (flag==true)
+		return 1;
 	// Main Logic
 	c=a;
 	a=b+flag;
