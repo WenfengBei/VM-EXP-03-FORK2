@@ -4,9 +4,12 @@ int mian()
 {
 	int a=114;
 	int b=514;
+	// Feature2
+	boolean flag=false;
 	// Main Logic
 	a+=b;
-	b=a-b;
+	b=a-b+flag;
+	flag=true;
 	a-=b;
 	return 0;
 }
