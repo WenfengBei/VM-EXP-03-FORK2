@@ -8,6 +8,8 @@ int mian()
 	int c=0;
 	// Feature2
 	boolean flag=false;
+	// feat3
+	printf("feat3");
 	// need check
 	if (!flag)
 		cout<<"FALSE";
